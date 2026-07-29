@@ -1,0 +1,2 @@
+import CategoryTheoryCategoricalSemanticsCanonicalLaneLean.GateLemmas
+import CategoryTheoryCategoricalSemanticsCanonicalLaneLean.FinalTheorem
